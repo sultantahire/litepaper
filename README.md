@@ -1,4 +1,4 @@
-# The ZenChain Litepaper Public Releases
+https://github.com/zenchain-protocol/staking-private?tab=readme-ov-file#contributing-community-assets# The ZenChain Litepaper Public Releases
 
 
 ## Overview
